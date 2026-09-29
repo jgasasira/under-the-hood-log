@@ -18,7 +18,7 @@ Rather than hosting massive, bloated templates, this space is a highly disciplin
 
 ## 🛠️ The Strategic Trajectory
 
-Every single code asset committed to this workspace directly pairs with a deep-dive technical publication entry on [Under The Hood on Substack](https://substack.com "Under The Hood Substack"). 
+Every single code asset committed to this workspace directly pairs with a deep-dive technical publication entry on [Under The Hood on Substack](https://underthehoodtech.substack.com "Under The Hood Substack"). 
 
 *   **Continuous Verification:** Built explicitly to track toward flawless execution, near-perfect rubric fulfillment, and peak academic GPA optimization.
 *   **Asynchronous Utility:** Structured with rigorous documentation and clear, descriptive code comments to demonstrate research-level competence to international distributed tech organizations.
